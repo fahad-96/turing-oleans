@@ -36,7 +36,7 @@ The sha256 of every asset is in the release notes.
 
 Then run `lean File.lean` with the `lean` binary of exactly toolchain
 v4.33.0-rc1 (https://github.com/leanprover/lean4/releases/tag/v4.33.0-rc1).
-About 2.0 GB to download, 5.7 GB extracted.
+About 2.05 GB to download, about 5.95 GB extracted.
 
 ## Sources and licences
 
